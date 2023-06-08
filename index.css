@@ -1,0 +1,62 @@
+ /*External CSS*/
+
+
+/*CSS Reset*/
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+/*CSS Reset*/
+
+body{
+/*	background-color: #0588fa;*/
+	background-color: #010617;
+	color: #ade7f0;
+}
+
+.navbar_c0d3c{
+	background-color: #441212;
+/*	height: 50px;*/
+}
+
+.navbar_section_c0d3c{
+	color: #e3b202;
+}
+
+.navbar_c0d3c img{
+	height: 40px;
+}
+
+#home_c0d3c{
+	text-align: center;
+	
+	height: 700px;
+}
+
+.footer_c0d3c{
+	background-color: #171616;
+}
+
+.caption1{
+	color: red;
+	font-weight: bold;
+}
+
+.caption2{
+	color: black;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.contact_c0d3c{
+	background-color: #441212;
+}
+
+.form_c0d3c{
+	background-color: black;
+}
+
+a{
+	text-decoration: none;
+}
